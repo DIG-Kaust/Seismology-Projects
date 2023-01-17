@@ -17,6 +17,7 @@ All projects have been carried out on the open [Volve dataset](https://www.equin
 
 - Ning Wang [WANGN0E](https://github.com/WANGN0E): [Up/Down wavefield separation](nwang_wavsep)
 
+- Eyad Babtain: [Kirchhoff Migration](ebabtain_kirchhoff)
 
 ## Data
 
