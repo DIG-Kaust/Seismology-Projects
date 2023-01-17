@@ -12,3 +12,23 @@ All projects have been carried out on the open [Volve dataset](https://www.equin
 - Juan Daniel Romero [jdromerom](https://github.com/jdromerom): [Wavelet estimation](jromero_waveletestimation)
 
 ### 2022
+
+- Danilo Chamorro Riascos [dchamorror](https://github.com/dchamorror): [Semblance analysis and NMO correction](dchamorro_nmo)
+
+- Ning Wang [WANGN0E](https://github.com/WANGN0E): [Up/Down wavefield separation](nwang_wavsep)
+
+
+## Data
+
+In most cases, our projects start from one of the openly available data in the Volve village. In this case, we refer to this [notebook](https://github.com/PyLops/pylops_notebooks/blob/master/developement/SeismicInversion-Volve.ipynb) where the entire procedure to download data from the Volve data village is explained in details.
+
+We also provide a script in the `data_preparation` directory, which generates two subsets of the main dataset used in some of the projects.
+
+Finally, in some cases we used derived datasets from other projects of ours or available on the web. In this case, we provide details on how to obtain such data in the project folder directly.
+
+
+## Contribute
+
+Note that these projects are the results of a few weeks of work and therefore may be unfinished; nevertheless, they provide good starting points for whoever interested to work with the Volve dataset at different stages of processing.
+
+Contributions to improve any of the projects are most welcome! Please simply open a GitHub issue if you find any bug or want to add any feature to the current material. We will be happy to discuss with you and work together on making a PR at any time.
