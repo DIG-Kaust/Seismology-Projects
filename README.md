@@ -17,8 +17,16 @@ All projects have been carried out on the open [Volve dataset](https://www.equin
 
 - Ning Wang [WANGN0E](https://github.com/WANGN0E): [Up/Down wavefield separation](nwang_wavsep)
 
-- Eyad Babtain: [Kirchhoff Migration](ebabtain_kirchhoff)
+- Eyad Babtain: [Kirchhoff Depth Migration](ebabtain_kirchhoff)
 
+
+### 2023
+
+- Muhammad Iqbal Khatami [iqbalkhatami16](https://github.com/iqbalkhatami16): [Multiple removal using parabolic radon transform](ikhatami_radondem)
+ 
+- Xiao Ma: [Kirchoff Time Migration](xma_kirchoofftime)
+
+ 
 ## Data
 
 In most cases, our projects start from one of the openly available data in the Volve village. In this case, we refer to this [notebook](https://github.com/PyLops/pylops_notebooks/blob/master/developement/SeismicInversion-Volve.ipynb) where the entire procedure to download data from the Volve data village is explained in details.
