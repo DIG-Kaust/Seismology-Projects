@@ -22,7 +22,7 @@ All projects have been carried out on the open [Volve dataset](https://www.equin
 
 ### 2023
 
-- Arturo Ruiz: [3D Deblending](aruiz_3ddebl)
+- Arturo Ruiz [arturoruizs](https://github.com/arturoruizs): [3D Deblending](aruiz_3ddebl)
 
 - Muhammad Iqbal Khatami [iqbalkhatami16](https://github.com/iqbalkhatami16): [Multiple removal using parabolic radon transform](ikhatami_radondem)
  
