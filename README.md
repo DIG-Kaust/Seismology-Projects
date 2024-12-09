@@ -29,6 +29,18 @@ All projects have been carried out on the open [Volve dataset](https://www.equin
 - Xiao Ma: [Kirchoff Time Migration](xma_kirchoofftime)
 
 
+### 2024
+
+- Emerald Olango: [Prestack Kirchoff Time Migration](eolango_prestackkirchoofftime)
+
+- Sophia Manzo Vega: [Dead trace identification](smanzo_deadtraces)
+
+- Amnah Samarin - Ulises Berman [Amnah2020](https://github.com/Amnah2020)-[uber30](https://github.com/uber30): [Refraction tomography](https://github.com/Amnah2020/RefrTomo/tree/Volvo)
+
+- Charbel Sayan: [Predictive Decon](csayan_predictivedecon)
+
+- Cristhian Valladares: [Time to Depth Conversion](cvalladares_time2depth)
+ 
  
 ## Data
 
